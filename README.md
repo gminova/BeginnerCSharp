@@ -1,1 +1,5 @@
 # BeginnerCSharp
+1-firstStepsInCoding
+2-simpleOperationsAndCalculations
+3-conditionalStatements
+4-nestedConditinoalStatements
